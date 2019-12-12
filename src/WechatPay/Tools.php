@@ -1,5 +1,5 @@
 <?php
-namespace RedPay\WechatPay;
+namespace redpay\wechatpay;
 /**
  * 工具类
  */
