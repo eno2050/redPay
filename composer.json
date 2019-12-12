@@ -1,0 +1,19 @@
+{
+    "name": "redpay/redpay",
+    "description": "wechat pay",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "moon2050",
+            "email": "117908549@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "RedPay\\WechatPay\\": "src/WechatPay"
+        }
+    }
+}
